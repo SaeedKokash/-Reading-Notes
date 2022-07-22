@@ -22,18 +22,18 @@ This website will be my main documentation tool to keep track of what I'm learni
 
 ## **Courses**
 
-### Code 102 - Intro to Software Development
+## Code 102 - Intro to Software Development
 
 This section will be updated soon!
 
-### Code 201 - Foundations of Software Development
+## Code 201 - Foundations of Software Development
 
 This section will be updated soon!
 
-### Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development
 
 This section will be updated soon!
 
-### Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development
 
 This section will be updated soon!
