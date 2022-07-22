@@ -7,7 +7,7 @@
 - Old Profession: Architect
 - New Profession: **Web Developer/Programer**
 - [Personal Email](mailto:saeedkokash@gmail.com)
-- [linkedin Profile](www.Linkedin.com/in/saeedkokash)
+- [Linkedin Profile](www.Linkedin.com/in/saeedkokash)
 
 # **Objective:**
 I'm a career shifting guy with motivation to follow my passion of becoming a *web developer / programer* someday, I'm currently working through my path and hopefully I'm going to reach my goal 🤞.
