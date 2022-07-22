@@ -6,7 +6,7 @@
 - Location: Amman, Jordan
 - Old Profession: Architect
 - New Profession: **Web Developer/Programer**
-- [personal email](saeedkokash@gmail.com)
+- [Personal Email](mailto:saeedkokash@gmail.com)
 - [linkedin Profile](www.linkedin.com/in/saeedkokash)
 
 # **Objective:**
