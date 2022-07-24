@@ -32,7 +32,7 @@ This section will be updated soon!
 
 ## Code 301 - Intermediate Software Development
 
-This section will be updated soon!
+Lecutre 01 - [Compund-Based Architecture](./Lecture 01.md)
 
 ## Code 401 - Advanced Software Development
 
