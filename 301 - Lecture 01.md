@@ -64,7 +64,7 @@ Props are a (uni-directional) one way data flow which means that they go from a 
 <hr>
 <hr>
 
-## Usefull Resources ##
+## Useful Resources ##
 
 - [React Tutorial through ‘Passing Data Through Props’](https://reactjs.org/tutorial/tutorial.html)
 - [React Docs - Hello world](https://reactjs.org/docs/hello-world.html)
