@@ -32,8 +32,8 @@ This section will be updated soon!
 
 ## Code 301 - Intermediate Software Development
 
-1- Lecutre 01 - [Compund-Based Architecture & Props](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture01.md)
-2- Lecture 02 - [State and Props] (https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture02.md)
+- Lecutre 01 - [Compund-Based Architecture & Props](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture01.md)
+- Lecture 02 - [State and Props] (https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture02.md)
 
 ## Code 401 - Advanced Software Development
 
