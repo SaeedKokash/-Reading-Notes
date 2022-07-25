@@ -1,4 +1,5 @@
 # Reading-Notes
+my main documentation tool for becomming a software developer!
 
 # **About Me:**
 - Name: Saeed Kokash
