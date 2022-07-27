@@ -36,6 +36,8 @@ This section will be updated soon!
 - Lecutre 01 - [Compund-Based Architecture & Props](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture01.md)
 - Lecture 02 - [State and Props](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture02.md)
 - Lecture 03 - [.map(), Spread Operator, and Passing Functions between Components](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture03.md)
+- Lecture 04 - [](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture04.md)
+- Lecture 05 - [](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture05.md)
 
 ## Code 401 - Advanced Software Development
 
