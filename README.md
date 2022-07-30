@@ -38,7 +38,7 @@ This section will be updated soon!
 - Lecture 03 - [.map(), Spread Operator, and Passing Functions between Components](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture03.md)
 - Lecture 04 - [Controlled Component & Ternary if](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture04.md)
 - Lecture 05 - [Thinking in React & Higher-Order Functions](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture05.md)
-- Lecture 05 - [NODE.JS & Reasons for Pair Programming](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture06.md)
+- Lecture 06 - [NODE.JS & Reasons for Pair Programming](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture06.md)
 
 ## Code 401 - Advanced Software Development
 
