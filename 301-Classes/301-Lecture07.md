@@ -1,4 +1,4 @@
-# NODE.JS #
+# REST #
 
 ## Who is Roy Fielding? ##
 he is a smart guy who helped writing the first web servers, he did a ton of research explaining why the web works the way it does.His name is on the specification for the protocol that is used to get pages from servers to your browser.
