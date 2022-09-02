@@ -53,4 +53,4 @@ This section will be updated soon!
 - Prep Work - [Introduction to SQL](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/401-Prep01.md)
 - Prep Work - [GIT Practice](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/401-Prep02.md)
 - Prep Work - [Bash Practice](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/401-Prep03.md)
-- Prep Work - [Typing Practice]()
+- Prep Work - [Typing Practice](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/401-Prep04.md)
