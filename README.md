@@ -51,6 +51,6 @@ This section will be updated soon!
 ## Code 401 - Advanced Software Development
 
 - Prep Work - [Introduction to SQL](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/401-Prep01.md)
-- Prep Work - [GIT Practice]()
+- Prep Work - [GIT Practice](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/401-Prep02.md)
 - Prep Work - [Bash Practice]()
 - Prep Work - [Typing Practice]()
