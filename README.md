@@ -40,7 +40,17 @@ This section will be updated soon!
 - Lecture 05 - [Thinking in React & Higher-Order Functions](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture05.md)
 - Lecture 06 - [NODE.JS & Reasons for Pair Programming](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture06.md)
 - Lecture 07 - [REST](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture07.md)
+- Lecture 08 - [API's](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture08.md)
+- Lecture 09 - [Functional Programming and Modules](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture09.md)
+- Lecture 10 - [In Memory Usage](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture10.md)
+- Lecture 11 - [Mongo and Mongoose (SQL and NoSQL)](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture11.md)
+- Lecture 12 - [CRUD](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture12.md)
+- Lecture 13 - [More CRUD](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture13.md)
+- Lecture 14 - [Diversity & Inclusion in the Tech Industry](https://github.com/SaeedKokash/-Reading-Notes/blob/main/301-Classes/301-Lecture14.md)
 
 ## Code 401 - Advanced Software Development
 
-This section will be updated soon!
+- Prep Work - [Introduction to SQL]()
+- Prep Work - [GIT Practice]()
+- Prep Work - [Bash Practice]()
+- Prep Work - [Typing Practice]()
