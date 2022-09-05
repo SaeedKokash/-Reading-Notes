@@ -55,3 +55,5 @@ This section will be updated soon!
 - Prep Work - [Bash Practice](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/401-Prep03.md)
 - Prep Work - [Typing Practice](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/401-Prep04.md)
 - Prep Work - [Mindset](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/401-Prep05.md)
+<hr>
+- Class 01 - [https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/401-lab02.md]
