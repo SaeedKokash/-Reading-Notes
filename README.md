@@ -58,4 +58,4 @@ This section will be updated soon!
 <hr>
 
 - Class 01 - [Readings: Express](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/401-lab02.md)
-- Class 03 - [Readings: SQL database, ORM, Sequelize](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/401-lecture03.md)
+- Class 03 - [Readings: SQL database, ORM, Sequelize](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/lecture03.md)
