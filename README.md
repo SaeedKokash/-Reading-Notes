@@ -50,12 +50,16 @@ This section will be updated soon!
 
 ## Code 401 - Advanced Software Development
 
+### Prep Work
+
 - Prep Work - [Introduction to SQL](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/401-Prep01.md)
 - Prep Work - [GIT Practice](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/401-Prep02.md)
 - Prep Work - [Bash Practice](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/401-Prep03.md)
 - Prep Work - [Typing Practice](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/401-Prep04.md)
 - Prep Work - [Mindset](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/401-Prep05.md)
 <hr>
+
+### Advanced Classes
 
 - Class 01 - [Readings: Express](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/401-lab02.md)
 - Class 03 - [Readings: SQL database, ORM, Sequelize](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/lecture03.md)
