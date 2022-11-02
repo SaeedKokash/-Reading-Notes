@@ -65,3 +65,4 @@ This section will be updated soon!
 - Class 03 - [Readings: SQL database, ORM, Sequelize](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/lecture03.md)
 - Class 06 - [Readings: Stack and Queues](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/lecture06.md)
 - Class 20 - [Readings: Socket BE](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/lecture20.md)
+- Class 21 - [Readings: Hash Tables](https://github.com/SaeedKokash/-Reading-Notes/blob/main/401-Classes/lecture21.md)
